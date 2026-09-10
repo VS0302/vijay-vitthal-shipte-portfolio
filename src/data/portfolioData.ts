@@ -11,9 +11,9 @@ export const portfolioData = {
     description:
       "IT Professional specializing in Desktop Support, Technical Support, IT Infrastructure, Windows/Linux Administration, Networking and Cloud Technologies.",
 
-    email: "your-email@example.com",
+    email: "vijayshipte5@gmail.com",
 
-    phone: "+91 XXXXXXXXXX",
+    phone: "+91 8828442078",
 
     location: "Navi Mumbai, Maharashtra, India",
 
@@ -23,9 +23,9 @@ export const portfolioData = {
   },
 
   social: {
-    linkedin: "https://www.linkedin.com/",
-    github: "https://github.com/",
-    email: "mailto:your-email@example.com",
+    linkedin: "https://www.linkedin.com/in/vijayshipte/",
+    github: "https://github.com/VS0302",
+    email: "mailto:vijayshipte5@gmail.com",
   },
 
   about: {
